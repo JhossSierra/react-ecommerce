@@ -1,0 +1,9 @@
+aside{
+    width: 360px;
+    height: 80ch;
+    top: 68px;
+}
+aside img {
+    max-width: 500px;
+    max-height: 300px;
+}
