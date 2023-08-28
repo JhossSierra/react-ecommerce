@@ -3,14 +3,14 @@ import { useRoutes,BrowserRouter } from 'react-router-dom'
 import './App.css'
 import Home from '../Home'
 import MyOrders from '../MyOrders'
-import MyAccount from '../myAccount'
+
 import MyOrder from '../MyOrder'
 import NotFound from '../NotFound'
 import SignIn from '../SignIn'
 import Navbar from '../../components/Nabvar'
 import ShopingCarContextProvider from '../../components/Context'
 import CheckoutMenu from '../../components/CheckoutMenu'
-
+import MyAccount from '../MyAccount'
 
 const AppRoutes= ()=>{
   
